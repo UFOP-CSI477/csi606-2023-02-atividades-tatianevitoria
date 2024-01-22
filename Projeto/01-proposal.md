@@ -8,7 +8,7 @@
 
 ### Resumo
 
-  Este projeto visa desenvolver uma plataforma web inovadora para a reserva de consultas médicas e clínicas, contextualizando-se em um cenário contemporâneo onde a digitalização dos serviços de saúde se torna imperativa. A proposta almeja simplificar o agendamento de compromissos, oferecendo aos pacientes a comodidade de escolher profissionais e horários de forma eficiente. Adicionalmente, o sistema proporcionará aos profissionais de saúde ferramentas de gestão para aprimorar o atendimento, enquanto os pacientes terão acesso a um histórico de consultas.
+  Este projeto visa desenvolver uma plataforma web para a reserva de consultas médicas e clínicas, contextualizando-se em um cenário contemporâneo onde a digitalização dos serviços de saúde se torna imperativa. A proposta almeja simplificar o agendamento de compromissos, oferecendo aos pacientes a comodidade de escolher profissionais e horários de forma eficiente. Adicionalmente, o sistema proporcionará aos profissionais de saúde ferramentas de gestão para aprimorar o atendimento, enquanto os pacientes terão acesso a um histórico de consultas.
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
