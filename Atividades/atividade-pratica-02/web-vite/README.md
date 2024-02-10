@@ -1,30 +1,31 @@
-# React + TypeScript + Vite
+# Frontend - Sistema de Doação de Sangue
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Rodando o sistema
 
-Currently, two official plugins are available:
+1. **Clone o repositório:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ```bash
+   git clone https://github.com/UFOP-CSI477/csi606-2023-02-atividades-tatianevitoria.git
+   ```
 
-## Expanding the ESLint configuration
+2. **Acesse a pasta**
+  ```bash
+  cd .\Atividades\atividade-pratica-02\web-vite\
+  ```
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+3. **Instale as depêndencias:**
 
-- Configure the top-level `parserOptions` property like this:
+   ```bash
+   npm install
+   ```
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+4. **Rode o projeto:**
+   ```bash
+   npm run dev 
+   ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+5. **Acesse no navegador**
+    A porta será mostrada assim que o projeto for rodadp
+   ```bash
+   http://localhost:5173/
+   ```
