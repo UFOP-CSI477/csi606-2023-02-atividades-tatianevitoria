@@ -9,9 +9,10 @@
    ```
 
 2. **Acesse a pasta**
-  ```bash
-  cd .\Atividades\atividade-pratica-02\web-vite\
-  ```
+
+   ```bash
+   cd .\Atividades\atividade-pratica-02\web-vite\
+   ```
 
 3. **Instale as depêndencias:**
 
@@ -25,7 +26,7 @@
    ```
 
 5. **Acesse no navegador**
-    A porta será mostrada assim que o projeto for rodadp
+  - A porta será mostrada assim que o projeto for rodado
    ```bash
    http://localhost:5173/
    ```
