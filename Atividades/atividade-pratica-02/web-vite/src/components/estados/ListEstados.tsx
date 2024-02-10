@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import api from "../../services/api";
 import { Link } from "react-router-dom";
 
-interface EstadoInterface{
+export interface EstadoInterface{
     id: number;
     nome: string;
     sigla: string;
