@@ -1,6 +1,6 @@
 # **CSI606-2021-02 - Remoto - Trabalho Final - Resultados**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Tatiane Vitória de Oliveira*
 
 --------------
 
@@ -8,22 +8,58 @@
 
 ### Resumo
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+  Este projeto visa desenvolver uma plataforma web para a reserva de consultas médicas e clínicas, contextualizando-se em um cenário contemporâneo onde a digitalização dos serviços de saúde se torna imperativa. A proposta almeja simplificar o agendamento de compromissos, oferecendo aos pacientes a comodidade de escolher profissionais e horários de forma eficiente. Adicionalmente, o sistema proporcionará aos profissionais de saúde ferramentas de gestão para aprimorar o atendimento, enquanto os pacientes terão acesso a um histórico de consultas.
 
 ### 1. Funcionalidades implementadas
-<!-- Descrever as funcionalidades que eram previstas e foram implementas. -->
+  * CRUD de Médicos
+  * CRUD de Pessoas
+  * CRUD de Agenda
+  * CRUD de Consultas
   
 ### 2. Funcionalidades previstas e não implementadas
-<!-- Descrever as funcionalidades que eram previstas e não foram implementas, apresentando uma breve justificativa do porquê elas não foram incluídas -->
+  * Sistema de login
+  * Melhorar a questão de horários disponíveis
 
 ### 3. Outras funcionalidades implementadas
-<!-- Descrever as funcionalidades implementas além daquelas que foram previstas, caso se aplique.  -->
+-
 
 ### 4. Principais desafios e dificuldades
-<!-- Descrever os principais desafios encontrados no desenvolvimento do trabalho, quais foram as dificuldades e como elas foram superadas e resolvidas. -->
+Ao desenvolver o projeto, enfrentei desafios significativos devido à minha inexperiência no frontend e à gestão do tempo entre faculdade e estágio. Para superar essas dificuldades, busquei recursos online, como tutoriais e documentações  e priorizei as tarefas mais importantes.
 
 ### 5. Instruções para instalação e execução
-<!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
 
-### 6. Referências
+1. Clone o repositório 
+  ```bash
+  git clone
+  ```
+2. Instale as dependências
+  ```bash
+   npm install
+   ```
+
+3. Altere o arquivo de database para o seu banco 
+  ```bash
+    Projeto/backend/src/database/db.js
+  ```
+
+4. Execute o projeto
+
+   ```bash
+    npm run dev
+   ```
+
+### 6. Tecnologias utilizadas
+
+<!-- Listar as tecnologias de programação e ferramentas utilizadas no desenvolvimento do projeto. -->
+
+- MySQL
+- TypeScript
+- Node.js
+- React
+- Axios
+- Material UI
+- Vite
+
+
+### 7. Referências
 <!-- Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT. -->
